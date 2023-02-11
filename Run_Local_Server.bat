@@ -1,5 +1,5 @@
 @echo .
-@echo .  SERVER IS RUNNING....
+@echo .    LOCAL SERVER IS RUNNING...
 @echo .
 
-@node server.js
+@node local-server.js
